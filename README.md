@@ -34,10 +34,10 @@ Dedicated Full Stack Developer with extensive experience at CubeAISolutions Tech
 - Built back-end solutions for platforms using **Node.js**, **MongoDB**, **Express**, and **Firebase**.
 - Deployed applications on **Netlify, Render, AWS S3, and EC2**.
 
-### Notable Projects
-- **CubeAISolutions**: Developed a user-centric website focused on user experience.
-- **SG Tech**: Built an interactive, modern website with detailed service listings.
-- **MyCubeEvents**: Event management platform with user authentication, event scheduling, and real-time updates.
+### Notable Projects### Notable Projects
+- [CubeAISolutions](https://cubeaisolutions.com/): Developed a user-centric website focused on user experience.
+- [SG Tech](https://sgtechs.in/): Built an interactive, modern website with detailed service listings.
+- [MyCubeEvents](https://mycubeevents.com/): Event management platform with user authentication, event scheduling, and real-time updates.
 
 ---
 
